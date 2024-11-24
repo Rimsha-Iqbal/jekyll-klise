@@ -1,13 +1,14 @@
 ---
-title: Acknowledgment
+title: "Gracias por Visitar"
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: Gracias por tomarte el tiempo para explorar este sitio web, donde celebramos algunas de las festividades más importantes del mundo.
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+# ¡Gracias por Visitar!
 
-<hr>
+Gracias por tomarte el tiempo para explorar este sitio web, donde celebramos algunas de las festividades más importantes del mundo. Cada festividad tiene un significado profundo y nos conecta con la diversidad cultural  de nuestro planeta.
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+Este sitio fue creado con el propósito de educar y fomentar el entendimiento intercultural, y esperamos que hayas disfrutado de la información y las historias compartidas.
+
