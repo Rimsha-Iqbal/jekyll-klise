@@ -1,5 +1,5 @@
 ---
-title: Colophon
+title: Fiestas
 permalink: /about/
 layout: page
 excerpt: Este sitio es una celebración de diversas festividades culturales y religiosas alrededor del mundo. Explora el significado, las tradiciones y las costumbres detrás de festividades como Eid ul-Fitr, Eid ul-Adha, Ramadán, Navidad y Holi.
