@@ -1,61 +1,59 @@
-# Klisé
+# Proyecto: Festividades Culturales y Religiosas
 
-Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
+Este proyecto tiene como objetivo explorar y celebrar algunas de las festividades más importantes y significativas en diversas culturas y religiones alrededor del mundo. A través de una serie de publicaciones, cada una dedicada a una festividad, este proyecto proporciona información detallada sobre los orígenes, tradiciones, celebraciones y el significado profundo de eventos como **Eid ul-Fitr**, **Eid ul-Adha**, **Ramadán**, **Navidad** y **Holi**.
 
-## Features
+## Índice de Contenidos
 
-- [x] Light & Dark Mode support :waxing_crescent_moon:
-- [x] Customizable (using `.scss`)
-- [x] Responsive (desktop, tab and mobile)
-- [x] Mobile First Design
-- [x] SEO Optimized
-- [x] Images of post Organized ([`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles))
-- [x] Generate Sitemap ([`jekyll-sitemap`](https://github.com/jekyll/jekyll-sitemap))
-- [x] RSS Feed ([`jekyll-feed`](https://github.com/jekyll/jekyll-feed))
-- [x] Syntax Highlighter ([`rouge`](https://github.com/rouge-ruby/rouge))
-- [x] Next & Previous Post
-- [x] Comment layout, enable in frontmatter if you wish
-- [x] Google analytics
-- [x] HTML Minify ([`jekyll-compress-html`](https://github.com/penibelst/jekyll-compress-html))
-- [x] W3C **Validated**
-- [x] Lighthouse and PageSpeed **Passed**
+- [Proyecto: Festividades Culturales y Religiosas](#proyecto-festividades-culturales-y-religiosas)
+  - [Índice de Contenidos](#índice-de-contenidos)
+  - [Introducción](#introducción)
+  - [Festividades Cubiertas](#festividades-cubiertas)
+    - [Eid ul-Fitr](#eid-ul-fitr)
+    - [Eid ul-Adha](#eid-ul-adha)
+    - [Ramadán](#ramadán)
+    - [Navidad](#navidad)
+    - [Holi](#holi)
 
-![Lighthouse Result](./lighthouse.png)
+## Introducción
 
-## Backlogs
+Este proyecto tiene como propósito fomentar una comprensión más profunda de algunas de las festividades más destacadas y coloridas celebradas en todo el mundo. Cada festividad no solo representa un conjunto de prácticas y rituales, sino también una oportunidad para conectar con valores universales como la generosidad, la unidad, la paz y el amor.
 
-- [ ] Intergrated with PhotoSwipe.
-- [ ] Add schema.org meta information.
-- [ ] Transform class selector to BEM metodology.
+A través de este proyecto, te invitamos a explorar las historias, tradiciones y simbolismos detrás de estas celebraciones. El aprendizaje sobre diferentes culturas y religiones es un paso hacia una mayor comprensión y respeto mutuo en un mundo diverso.
 
-## Installation
+## Festividades Cubiertas
 
-Run local server:
+### Eid ul-Fitr
 
-```bash
-$ git clone https://github.com/piharpi/jekyll-klise.git
-$ cd jekyll-klise
-$ bundle install
-$ bundle exec jekyll serve
-```
+**Eid ul-Fitr** marca el final del mes sagrado de **Ramadán**, un mes dedicado al ayuno, la oración y la reflexión. Este día se celebra con una oración especial y es una oportunidad para dar caridad a los más necesitados (Zakat al-Fitr). El intercambio de regalos y comidas especiales es común, así como la unión de la familia y la comunidad. Eid ul-Fitr refleja la gratitud hacia Dios por la paciencia y las bendiciones durante el mes de ayuno.
 
-Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
+- **Temática del post:** Significado de la festividad, prácticas comunes y reflexión espiritual.
+- [Leer el post completo sobre Eid ul-Fitr](./_posts/eid-ul-fitar/2024-11-23-eid-ul-fitar.md)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise) [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=javascript-0000-jopapa#create/Microsoft.StaticApp)
+### Eid ul-Adha
 
-## Limitation
+**Eid ul-Adha**, también conocida como la "Fiesta del Sacrificio", honra el acto de obediencia del profeta Ibrahim (Abraham), quien estaba dispuesto a sacrificar a su hijo Ismael en obediencia a Dios. Esta festividad destaca el valor del sacrificio y la generosidad, con la tradición del sacrificio de animales y la distribución de su carne entre la familia, amigos y los más necesitados.
 
-- Since [`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles#compatibility) plugin isn't supported by github pages, this cause will make your site problems, path broken or post images won't show up, you can host alternatively using likes [netlify.com](https://netlify.com), [vercel.com](https://vercel.com), [azure.com](https://docs.microsoft.com/azure/static-web-apps/publish-jekyll) or [surge.sh](https://surge.sh) services, which support 3rd party.
+- **Temática del post:** Historia, significado del sacrificio, costumbres y tradiciones.
+- [Leer el post completo sobre Eid ul-Adha](./_posts/eid-ul-adha/2024-11-24-eid-ul-adha.md)
 
-## Contributing
+### Ramadán
 
-If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [contributing](./CONTRIBUTING.md) before PR.
+**Ramadán** es el noveno mes del calendario islámico, un tiempo de ayuno, oración, caridad y reflexión. El ayuno es uno de los **Cinco Pilares del Islam** y tiene un profundo significado espiritual. Durante este mes, los musulmanes se abstienen de comer, beber y realizar otros actos desde el amanecer hasta el atardecer. Ramadán es también un tiempo para fortalecer el vínculo con Dios y con la comunidad.
 
-Yeaaa feel free to open a pull request.
-## Support
+- **Temática del post:** Prácticas, impacto espiritual, y cómo el ayuno contribuye a la purificación física y espiritual.
+- [Leer el post completo sobre Ramadán](./_posts/ramadhan/2024-11-24-ramadhan.md)
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7MJ4X) [![saweria.co](./assets/img/saweria-button.png)](https://saweria.co/piharpi)
-## License
+### Navidad
 
-This project is open source and available under the [MIT License](LICENSE).
+**Navidad** es una festividad cristiana que celebra el nacimiento de Jesucristo, pero también se ha convertido en una festividad secular ampliamente celebrada en todo el mundo. La Navidad es un tiempo para compartir con la familia, reflexionar sobre el amor, la esperanza y la generosidad, y difundir alegría a través del intercambio de regalos y decoraciones festivas.
+
+- **Temática del post:** Tradiciones religiosas y seculares, costumbres de celebración en diferentes países.
+- [Leer el post completo sobre Navidad](./_posts/christmas/2024-11-24-chirstmas.md)
+
+### Holi
+
+**Holi**, el Festival de los Colores, es una festividad hindú que celebra la llegada de la primavera y la victoria del bien sobre el mal. La gente se reúne para lanzar polvos de colores brillantes, bailar y cantar en un ambiente festivo. Holi es también un tiempo de unión y perdón, donde las diferencias se desvanecen y las personas se abrazan sin prejuicios.
+
+- **Temática del post:** Orígenes de la festividad, símbolos de colores y significados espirituales.
+- [Leer el post completo sobre Holi](./_posts/holi/2024-11-24-holi.md)
+
